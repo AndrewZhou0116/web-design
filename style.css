@@ -4,11 +4,11 @@ html, body { height: 100%; }
 body {
   margin: 0;
   font: 16px/1.6 ui-sans-serif, system-ui, -apple-system, "Segoe UI";
-  background-color: beige;            /* mobile-first */
+  background-color: olive;            /* mobile-first */
   color: #111827;
 }
 @media (min-width: 1000px) {
-  body { background-color: olive; }   /* large screens */
+  body { background-color: beige; }   /* large screens */
 }
 
 .row { display: flex; align-items: stretch; gap: 12px; margin: 20px; }
@@ -43,7 +43,7 @@ body {
   padding: 12px 16px; background:transparent;
 }
 .topnav a {
-  color: beige; font-weight: 600; text-decoration: none;
+  color: darkolivegreen; font-weight: 600; text-decoration: none;
 }
 .topnav a:hover { text-decoration: underline; color: rgb(164,4,142); }
 
