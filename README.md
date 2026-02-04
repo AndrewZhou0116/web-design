@@ -1,3 +1,3 @@
+# Learning Notes
 
-
-###  a simple html/css practice after watching CS50w p0
+A collection of my online course assignments and practice projects.
